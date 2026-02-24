@@ -1,1 +1,1 @@
-python program called helloworld2 
+python program called helloworld2 (uses Python3)
